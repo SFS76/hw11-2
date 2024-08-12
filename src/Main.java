@@ -16,6 +16,6 @@ public class Main {
     public static void main(String[] args) {
         int clientOS = 0;
         int phoneYear = 2023;
-        defineHighGradeYear(year);
+        defineOS(clientOS, phoneYear);
     }
 }
